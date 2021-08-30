@@ -4,7 +4,7 @@
 
 Predict the presence of cardiovascular disease in a patient given his / her pathological data (age, sex, cholestrol, blood pressure etc...) by machine learning models.
 
-This project was done as an Industry Oriented Project.
+This project was done as an Industry Oriented Project under Prof. Ambalika Sharma at IIT Roorkee.
 
 ### Repository Description
 
