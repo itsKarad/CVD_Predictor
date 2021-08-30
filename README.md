@@ -6,7 +6,7 @@ Predict the presence of cardiovascular disease in a patient given his / her path
 
 This project was done as an Industry Oriented Project under Prof. Ambalika Sharma at IIT Roorkee.
 
-### Repository Description
+### Description
 
 Following repo contains 
 
